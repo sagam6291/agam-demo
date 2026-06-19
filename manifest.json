@@ -1,0 +1,20 @@
+{
+  "project_id": "proj_1365b5445292",
+  "name": "agam demo",
+  "description": "demo testing",
+  "os": "mac",
+  "os_version": "macos-sequoia",
+  "default_browser": "edge",
+  "test_case_count": 1,
+  "pushed_at": "2026-06-19T11:56:32.754009",
+  "test_cases": [
+    {
+      "test_case_id": "tc_fcacefbce010",
+      "title": "vidaworld",
+      "flow_name": "test_book_vida_test_ride_with_full_name_20260619_114851.py",
+      "browser": "edge",
+      "lang": "python",
+      "file": "tests/vidaworld.py"
+    }
+  ]
+}
